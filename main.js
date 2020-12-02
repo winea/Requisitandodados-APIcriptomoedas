@@ -1,5 +1,5 @@
 const apikey = {
-  key: '82718c9f-bc9b-4a3c-831d-25eff795dd05'
+  key: 
 }
 
 //GET, fetch(faz metodos get, post, put, delete) requisiçoes de API
